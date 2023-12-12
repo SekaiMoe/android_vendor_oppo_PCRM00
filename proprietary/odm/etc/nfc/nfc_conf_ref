@@ -1,0 +1,28 @@
+#############################################################
+## File: - nfc_conf_ref
+## VENDOR_EDIT
+## Copyright (C), 2008-2020, OPPO Mobile Comm Corp., Ltd
+##
+## Description : 1.0
+##           This is a common file
+##
+## Version: 1.0
+## Date created: 12:00, 2019/09/20
+## Author: Yukun.Wang@PSW.CONNECTIVITY.Nfc.Basic, 2345426
+## Format for every line:
+## [target config]:[project name 1] [project name 2]...
+##
+## ------------------ Revision History: ---------------------
+##      <author>         <date>                        <desc>
+##     Yukun.Wang  12:00, 2019/09/20  Change nfc config load & compile mechanism
+#############################################################
+
+19125:19125 19126 19127 19128
+19101:19101 19102
+19521:19521
+19501:19501
+19191:19191 19192
+19015:19015 19016
+19591:19591
+19525:19525 19528
+19335:19335
